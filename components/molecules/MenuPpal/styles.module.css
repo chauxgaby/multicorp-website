@@ -1,0 +1,14 @@
+.headerMenuWrapper {
+    background-color: #cb4450;
+    ;
+    color: #FEFEFE;
+}
+
+.headerMenu {
+    margin: 0;
+    padding: 0;
+    margin: 0 2.5rem;
+    display: flex;
+    list-style-type: none;
+    padding: 0.15rem;
+}

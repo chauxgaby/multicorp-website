@@ -1,0 +1,14 @@
+.headerMenuItem {
+    height: 100%;
+    padding: 1rem;
+    border-right: 1px solid #ca787f;
+    cursor: pointer;
+}
+
+.headerMenuItem:last-child {
+    border-right: none;
+}
+
+.headerMenuItem:hover {
+    background-color: rgba(254, 254, 254, 5%);
+}
